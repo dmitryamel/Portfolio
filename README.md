@@ -5,7 +5,7 @@ ___
 - Machine Learning 
 - Data Analysis
 - Other
-  
+- 
 ## Проекты
 ___
 ### Краткое описание
@@ -14,22 +14,17 @@ ___
 - **Churn Classification** - прогнозирование оттока клиентов
 - **Regression** - предсказание процентнорго содержания золота в финальном продукте тех.процесса
 - **Time Series Forecasting** - прогнозирование спроса на такси
-- [Express] - fast node.js network app framework [@tjholowaychuk]
-- [Gulp] - the streaming build system
-- [Breakdance](https://breakdance.github.io/breakdance/) - HTML
-to Markdown converter
-- [jQuery] - duh
+- **hh_ru scraper** - простой скрэйпер вакансий Data Science с сайта hh.ru с помощью API
+
 ### Сводная таблица
 ___
-| Название | Категория | Стек | Метрика | Ссылка |
-|:-----------------| :------: | ------ |:------:|:------:|
-| Video Games EDA| Data Analysis|*pandas,matplotlib,seaborn*|-|https://github.com/dmitryamel/portfolio/blob/main/EDA/EDA.ipynb]
-| NLP | Machine Learning|*nltk,spacy,catboost,scikit-learn*|F1|https://github.com/dmitryamel/portfolio/tree/main/NLP|
-| Churn Classification| Machine Learning | *ydata-profiling, fast-ml, scikit-learn*| F1| https://github.com/dmitryamel/portfolio/tree/main/Churn%20Classification
-| Regression | Machine Learning |scikit-learn, scipy.stats, pipeline| sMAPE| https://github.com/dmitryamel/portfolio/tree/main/Regression
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-
+| Название | Категория | Стек | Метрика |
+|:-----------------| :------: | ------ |:------:|
+| [Video Games EDA](https://github.com/dmitryamel/portfolio/blob/main/EDA/EDA.ipynb])| Data Analysis|*pandas,matplotlib,seaborn*|-
+| [NLP](https://github.com/dmitryamel/portfolio/tree/main/NLP) | Machine Learning|*nltk,spacy,catboost,scikit-learn*|F1||
+| [Churn Classification](https://github.com/dmitryamel/portfolio/tree/main/Churn%20Classification)| Machine Learning | *ydata-profiling, fast-ml, scikit-learn*| F1| 
+| [Regression](https://github.com/dmitryamel/portfolio/tree/main/Regression) | Machine Learning |*scikit-learn, scipy.stats, pipeline*| sMAPE| 
+| [Time Series Forecasting](https://github.com/dmitryamel/portfolio/tree/main/Time%20Series%20Forecasting)|Machine Learning|*xgboost,optuna,scikit-learn,statsmodel.tsa*|RMSE
+| [API Scraper](https://github.com/dmitryamel/portfolio/tree/main/HH%20API%20Scraper)|Other|*requests,pandas,matplotlib*|-
 
 ```
-
