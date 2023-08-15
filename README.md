@@ -5,7 +5,7 @@ ___
 - Machine Learning 
 - Data Analysis
 - Other
-- 
+  
 ## Проекты
 ___
 ### Краткое описание
