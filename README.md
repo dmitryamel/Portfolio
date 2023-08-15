@@ -13,7 +13,7 @@ ___
 - **NLP** - выделение токсичных комментариев в соц.сети
 - **Churn Classification** - прогнозирование оттока клиентов
 - **Regression** - предсказание процентнорго содержания золота в финальном продукте тех.процесса
-- [node.js] - evented I/O for the backend
+- **Time Series Forecasting** - прогнозирование спроса на такси
 - [Express] - fast node.js network app framework [@tjholowaychuk]
 - [Gulp] - the streaming build system
 - [Breakdance](https://breakdance.github.io/breakdance/) - HTML
