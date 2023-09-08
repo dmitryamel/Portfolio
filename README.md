@@ -8,6 +8,7 @@ ___
 ## Проекты
 ___
 ### Краткое описание
+- **Loan scoring** - построение скоринговой модели, принимающей решение о выдаче заема
 - **Video games EDA** - исследовательский анализ данных по продажам видеоигр в разных странах
 - **NLP** - выделение токсичных комментариев в соц.сети
 - **Churn Classification** - прогнозирование оттока клиентов
@@ -19,6 +20,7 @@ ___
 ___
 | Название | Категория | Стек | Метрика |
 |:-----------------| :------: | ------ |:------:|
+| [Loan scoring](https://github.com/dmitryamel/portfolio/blob/main/Loan%20Scoring/EL_scoring.ipynb)| Data Analysis|*pandas,matplotlib,seaborn*|-
 | [Video Games EDA](https://github.com/dmitryamel/portfolio/blob/main/EDA/EDA.ipynb])| Data Analysis|*pandas,matplotlib,seaborn*|-
 | [NLP](https://github.com/dmitryamel/portfolio/tree/main/NLP) | Machine Learning|*nltk,spacy,catboost,scikit-learn*|F1||
 | [Churn Classification](https://github.com/dmitryamel/portfolio/tree/main/Churn%20Classification)| Machine Learning | *ydata-profiling, fast-ml, scikit-learn*| F1| 
